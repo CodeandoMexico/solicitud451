@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CodeandoMexico/solicitud451.png?label=ready&title=Ready)](https://waffle.io/CodeandoMexico/solicitud451)
 # Solicitud451
 
 -----------------------------------------------------------------
