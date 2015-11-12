@@ -3,18 +3,13 @@
 
 ## Antecedentes
 
-Decreto de Datos Abiertos; Índice de Datos Abiertos del PGcyM.
-(datos.gob.mx / Guía / Planea / Paso 1.3 - Priorizar los datos de valor)
+A parti del [DECRETO por el que se establece la regulación en materia de Datos Abiertos](http://dof.gob.mx/nota_detalle.php?codigo=5382838&fecha=20/02/2015), las dependencias del gobierno federal están obligadas a publicar datos abiertos.
 
-La priorización de datos es importante para identificar qué datos tienen mayor potencial de generar impacto y por lo tanto se deben empezar a publicar como Datos Abiertos. Esta priorización deberá hacerse en base a los datos que tenga más valor para la sociedad y los objetivos del gobierno. La priorización deberá incluir:
+Según la guía oficial de publicación en [datos.gob.mx / Guía / Planea / Paso 1.3 - Priorizar los datos de valor](http://datos.gob.mx/guia/planea/paso-1-3.html), la priorización de datos para publicar deberá tomar en cuenta los datos demandados por la ciudadanía mediante las solicitudes de acceso a la información **MÁS RECURRENTES**.
 
-Los conjuntos de datos solicitados anualmente mediante la Infraestructura Estratégica de Datos Abiertos, que se construye en base a un ejercicio de participación ciudadana implementado por la Unidad de Gobierno Digital, en conjunto con la Coordinación de Estrategia Digital Nacional, para conocer la demanda ciudadana de datos abiertos, y se podrá consultar en datos.gob.mx
-Todos los conjuntos de datos considerados como Información de Interés Nacional.
-Todos aquellos conjuntos de datos de carácter público que sean publicados en los sitios, micrositios y otras plataformas institucionales.
-Los datos demandados por la ciudadanía mediante las solicitudes de acceso a la información MÁS RECURRENTES.
-Datos sobre los programas de la Institución que ayuden a cumplir con los objetivos del Plan Nacional de Desarrollo 2013-2018, y apoyen el cumplimiento de los objetivos, políticas y programas de la Estrategia Digital Nacional, así como con las acciones relevantes de la Institución.
+Al darse prioridad a las solicitudes recurrentes (punto 4 de la guía), entre más veces se envíe la misma solicitud, mayor será la probabilidad de que se abran los datos solicitados.
 
-Al darse prioridad a las solicitudes recurrentes (punto 4 del decreto), entre más veces se envíe la misma solicitud, mayor será la probabilidad de que se abran los datos solicitados.
+Más información en [wiki/Referencias](https://github.com/CodeandoMexico/solicitud451/wiki/Referencias).
 
 ## Objetivos
 
